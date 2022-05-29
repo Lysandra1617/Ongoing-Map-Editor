@@ -1,0 +1,51 @@
+Things to Fix:
+
+There is a bug that I have not attended to where you cannot
+add decorations. When you click the add decoration button,
+the slider of decorations appear, but you cannot actually add a
+decoration. I'm not sure why that has happened.
+
+I'm not sure if this is still happening, but sometimes when you
+click a button, it fires off and on repeatedly. 
+
+Repetition. Since I was just trying to implement the most simplest
+and basic version of ideas, the code is not executed elegantly.
+There's a lot of repetition that I would like to take out. But I'd
+probably do that when I am going over parts of  the code after having
+completed it.
+
+The text in the buttons is supposed to be centered. However, to 
+properly do this I think you need the graphics thing, but I am
+unable to correctly do that with my current knowledge, so I need to figure that out.
+
+The design of the code is so...meager. If I am being 100% honest,
+I did not plan out this project. I just jumped into it (look where that got me, don't make my mistake). So I kind of want to scrap the whole thing and start from the beginning again, but I know if I keep doing that, I will never be finished. I'll just have to plan now, and then correct the design.
+
+There's more stuff, I just don't remember them. 
+
+Things I Wanna Do:
+
+I want to make the game look better. I mean, the buttons are
+a bit boring and they don't look cool. Even then, looking at the game. I feel a lot of lackluster.
+I think this is why I've been unmotivated in carrying out this project, I don't feel much awe anymore or excitement towards it.
+
+I am planning to add backgrounds and what not. I also want to implement a type of z-index so certain objects are in front of others. This I have also
+done, but because my planning is abyssmal, I have not gotten to do it over.
+
+I also want to create pets in the game and implement a path-find algorithm so the pet will follow the main character around. But first, I want to finish
+the tile editor part.
+
+I also wanted a main screen so you can choose whether you want to play the game or edit the game. I just haven't done this as of yet.
+
+The UI is also very rudimentary, but I'm not sure how I could
+better it myself other than giving it an image instead of a 
+basic color and a cooler font.
+
+I want like a smart UI where I can randomly generate a button,
+and bam it's there on the screen and I don't have to go through
+a ton of lines of repeated code. I can do this, I just haven't gotten
+to it.
+
+I WANT ORGANIZATION! I did not realize how extensive the planning of a project would need to be if you wanted to complete it in a reasonable time.
+
+
